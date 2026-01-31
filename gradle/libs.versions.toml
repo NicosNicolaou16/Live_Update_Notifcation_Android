@@ -1,6 +1,6 @@
 [versions]
 agp = "9.0.0"
-firebaseBom = "34.1.0"
+firebaseBom = "34.8.0"
 firebaseMessagingKtx = "24.1.2"
 kotlin = "2.2.10"
 coreKtx = "1.17.0"
