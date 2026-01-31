@@ -39,7 +39,7 @@ class LocalNotification(private val context: Context) {
             setAutoCancel(true)
 
             // Begin Live Update
-            var progressStyle: Notification.ProgressStyle? =
+            val progressStyle: Notification.ProgressStyle? =
                 getAndCreateProgressStyle()
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.BAKLAVA && progressStyle != null) {
                 setStyle(progressStyle)
