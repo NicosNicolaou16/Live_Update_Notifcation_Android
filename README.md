@@ -113,18 +113,18 @@ notifications to deliver rich, timely updates to the user.
 > [!IMPORTANT]  
 > Check my article for the setup :point_right: [Implementing Live Update Notifications in Android 16 - Medium](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373) :point_left: <br />
 
-# Versioning
+# 🔧 Versioning
 
 Target SDK version: 37 <br />
 Minimum SDK version: 29 <br />
 Kotlin version: 2.4.10 <br />
 Gradle version: 9.3.1 <br />
 
-# References
+# 📚 References
 
-https://developer.android.com/about/versions/16/features/progress-centric-notifications <br />
-https://github.com/android/platform-samples/tree/main/samples/user-interface/live-updates <br />
-https://developer.android.com/develop/ui/views/notifications/build-notification#Updating <br />
+-   [Android 16: Progress-centric notifications](https://developer.android.com/about/versions/16/features/progress-centric-notifications)
+-   [Official Sample: Live Updates on GitHub](https://github.com/android/platform-samples/tree/main/samples/user-interface/live-updates)
+-   [Documentation: Update a notification](https://developer.android.com/develop/ui/views/notifications/build-notification#Updating)
 
 ## ⭐ Stargazers
 
