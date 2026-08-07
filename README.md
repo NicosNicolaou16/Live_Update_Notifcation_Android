@@ -15,6 +15,10 @@ This repository provides a working example of implementing Live Update Notificat
 Android U). It demonstrates how to leverage both Firebase Cloud Messaging (FCM) and local
 notifications to deliver rich, timely updates to the user.
 
+> [!IMPORTANT]  
+> Check my article for the setup :point_right: [Implementing Live Update Notifications in Android 16 - Medium](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373) :point_left: <br />
+
+
 # Examples
 
 <p align="left">
@@ -110,18 +114,25 @@ notifications to deliver rich, timely updates to the user.
   <a title="simulator_image"><img src="examples/Screenshot 2025-06-08 192944.png" height="600" width="777"></a>
 </p>
 
-> [!IMPORTANT]  
-> Check my article for the setup :point_right: [Implementing Live Update Notifications in Android 16 - Medium](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373) :point_left: <br />
+## 🔧 Versioning
 
-# Versioning
+- **Target SDK:** **37**
+- **Minimum SDK:** **29**
+- **Kotlin Version:** **2.4.10**
+- **Gradle Version:** **9.3.1**
 
-Target SDK version: 36 <br />
-Minimum SDK version: 29 <br />
-Kotlin version: 2.3.0 <br />
-Gradle version: 9.0.0 <br />
+# 📚 References
 
-# References
+-   [Android 16: Progress-centric notifications](https://developer.android.com/about/versions/16/features/progress-centric-notifications)
+-   [Official Sample: Live Updates on GitHub](https://github.com/android/platform-samples/tree/main/samples/user-interface/live-updates)
+-   [Documentation: Update a notification](https://developer.android.com/develop/ui/views/notifications/build-notification#Updating)
 
-https://developer.android.com/about/versions/16/features/progress-centric-notifications <br />
-https://github.com/android/platform-samples/tree/main/samples/user-interface/live-updates <br />
-https://developer.android.com/develop/ui/views/notifications/build-notification#Updating <br />
+## ⭐ Stargazers
+
+If you enjoy this project, please give it a star!
+Check out all the stargazers
+here: [Stargazers on GitHub](https://github.com/NicosNicolaou16/Live_Update_Notifcation_Android/stargazers)
+
+## 🙏 Support & Contributions
+
+This project is actively maintained. Feedback, bug reports, and feature requests are welcome! Please feel free to **open an issue** or submit a **pull request**.
