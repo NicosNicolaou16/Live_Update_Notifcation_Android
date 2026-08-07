@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.nicos.liveupdatenotification"
-    buildToolsVersion = "36.0.0"
+    buildToolsVersion = "37.0.0"
     compileSdk = 36
 
     defaultConfig {
