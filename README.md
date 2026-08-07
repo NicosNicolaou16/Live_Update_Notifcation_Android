@@ -15,6 +15,10 @@ This repository provides a working example of implementing Live Update Notificat
 Android U). It demonstrates how to leverage both Firebase Cloud Messaging (FCM) and local
 notifications to deliver rich, timely updates to the user.
 
+> [!IMPORTANT]  
+> Check my article for the setup :point_right: [Implementing Live Update Notifications in Android 16 - Medium](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373) :point_left: <br />
+
+
 # Examples
 
 <p align="left">
@@ -109,9 +113,6 @@ notifications to deliver rich, timely updates to the user.
 <p align="left">
   <a title="simulator_image"><img src="examples/Screenshot 2025-06-08 192944.png" height="600" width="777"></a>
 </p>
-
-> [!IMPORTANT]  
-> Check my article for the setup :point_right: [Implementing Live Update Notifications in Android 16 - Medium](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373) :point_left: <br />
 
 # 🔧 Versioning
 
