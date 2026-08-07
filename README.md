@@ -114,12 +114,12 @@ notifications to deliver rich, timely updates to the user.
   <a title="simulator_image"><img src="examples/Screenshot 2025-06-08 192944.png" height="600" width="777"></a>
 </p>
 
-# 🔧 Versioning
+## 🔧 Versioning
 
-Target SDK version: 37 <br />
-Minimum SDK version: 29 <br />
-Kotlin version: 2.4.10 <br />
-Gradle version: 9.3.1 <br />
+- **Target SDK:** **37**
+- **Minimum SDK:** **29**
+- **Kotlin Version:** **2.4.10**
+- **Gradle Version:** **9.3.1**
 
 # 📚 References
 
