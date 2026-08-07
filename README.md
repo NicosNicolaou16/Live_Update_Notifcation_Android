@@ -125,3 +125,13 @@ Gradle version: 9.3.1 <br />
 https://developer.android.com/about/versions/16/features/progress-centric-notifications <br />
 https://github.com/android/platform-samples/tree/main/samples/user-interface/live-updates <br />
 https://developer.android.com/develop/ui/views/notifications/build-notification#Updating <br />
+
+## ⭐ Stargazers
+
+If you enjoy this project, please give it a star!
+Check out all the stargazers
+here: [Stargazers on GitHub](https://github.com/NicosNicolaou16/Live_Update_Notifcation_Android/stargazers)
+
+## 🙏 Support & Contributions
+
+This project is actively maintained. Feedback, bug reports, and feature requests are welcome! Please feel free to **open an issue** or submit a **pull request**.
