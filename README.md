@@ -115,10 +115,10 @@ notifications to deliver rich, timely updates to the user.
 
 # Versioning
 
-Target SDK version: 36 <br />
+Target SDK version: 37 <br />
 Minimum SDK version: 29 <br />
-Kotlin version: 2.3.0 <br />
-Gradle version: 9.0.0 <br />
+Kotlin version: 2.4.10 <br />
+Gradle version: 9.3.1 <br />
 
 # References
 
